@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+.box{
+    border: 1px solid #d9cfcf;
+    border-radius: 5px;
+    width: 30%;
+    padding: 15px;
+}
